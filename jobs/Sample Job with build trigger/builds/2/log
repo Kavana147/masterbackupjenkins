@@ -1,0 +1,29 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job with build trigger
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Sample Job with build trigger/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Kavana147/GitPractice.git # timeout=10
+Fetching upstream changes from https://github.com/Kavana147/GitPractice.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Kavana147/GitPractice.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/gitprct1
+Seen branch in repository origin/gitprct2
+Seen branch in repository origin/master
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 962eba892501c8c3184eaa653ff9927c93ea3dc4 (origin/gitprct1)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 962eba892501c8c3184eaa653ff9927c93ea3dc4 # timeout=10
+Commit message: "Update hard.sh"
+ > git rev-list --no-walk 962eba892501c8c3184eaa653ff9927c93ea3dc4 # timeout=10
+[Sample Job with build trigger] $ /bin/sh -xe /tmp/jenkins8828499549455219247.sh
++ sh horror.sh
+No!!! what a horror
++ sh hard.sh
+this is hard
+this is hard enough to swallow
+Finished: SUCCESS

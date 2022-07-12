@@ -1,0 +1,22 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job with Poll SCM
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/Kavana147/GitPractice.git
+ > git init /var/lib/jenkins/workspace/Sample Job with Poll SCM # timeout=10
+Fetching upstream changes from https://github.com/Kavana147/GitPractice.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Kavana147/GitPractice.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/Kavana147/GitPractice.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 72f1bae8486c2913c49dcce2590794652f54c0f7 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 72f1bae8486c2913c49dcce2590794652f54c0f7 # timeout=10
+Commit message: "commiting hard"
+First time build. Skipping changelog.
+Finished: SUCCESS

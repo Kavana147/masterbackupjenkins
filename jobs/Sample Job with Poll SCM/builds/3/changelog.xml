@@ -1,0 +1,50 @@
+commit 962eba892501c8c3184eaa653ff9927c93ea3dc4
+tree ea19d25c40339457aba5d49d35b9aa141399bfbe
+parent b7c19f6aa6a2db69e799dfbcb37eb8fce38e6853
+author Kavana147 <108313466+Kavana147@users.noreply.github.com> 2022-07-07 20:57:52 +0530
+committer GitHub <noreply@github.com> 2022-07-07 20:57:52 +0530
+
+    Update hard.sh
+
+:100644 100644 37dd9d0cf73e0bac1bb17f734de6b8bc8f350954 a95f938eac55ebcbf4c4686cc76942a63569ac5e M	hard.sh
+commit b581ad4bcab1424deee3b06839f831f6924f7402
+tree 7e150a2d59d0c7d4933917ef86b1fbd45f75674c
+parent 58ab81b2cb4d8d04129531000c9853ed3cd306d7
+author Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 14:10:14 +0000
+committer Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 14:10:14 +0000
+
+    checking merge conflict2
+
+
+:100644 100644 305ec37301aa6355d7735c94d3928e82d798c115 f7e7a4b9da155c3e0568606a4b8ea31252130cc2 M	horror.sh
+commit 570a802b7cf0b6b7a46e7f81c3ed9603ccbd2e35
+tree a59c4acd8a44628b71a06f33b946cc02bbcaa712
+parent 58ab81b2cb4d8d04129531000c9853ed3cd306d7
+author Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 14:09:04 +0000
+committer Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 14:09:04 +0000
+
+    checking merge conflict1
+
+
+:100644 100644 305ec37301aa6355d7735c94d3928e82d798c115 6e606dc760dd345489e345da3e9979713a0cbff5 M	horror.sh
+commit 58ab81b2cb4d8d04129531000c9853ed3cd306d7
+tree 53fee3b10e585861265291c9f0fa714db1ccbbb5
+parent a58a95369a8be37c662d6d2e62d05403744ea5a5
+author Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 13:56:45 +0000
+committer Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 13:56:45 +0000
+
+    checking merge2
+
+
+:000000 100644 0000000000000000000000000000000000000000 305ec37301aa6355d7735c94d3928e82d798c115 A	horror.sh
+commit a58a95369a8be37c662d6d2e62d05403744ea5a5
+tree 7c035f6c01c1b2dbf29d8e1a6cd243e5e690c3b7
+parent 72f1bae8486c2913c49dcce2590794652f54c0f7
+author Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 13:52:07 +0000
+committer Kavana147 <kruthikapranav55@gmail.com> 2022-07-07 13:52:07 +0000
+
+    checking merge with 2 commits
+
+
+:100755 100755 497b49004d7f9547cfab640e25921a0742d0ebf0 aa8d09d1c2a5a33a2a83f4dbbbdc673b0194eafb M	bigger.sh
+:000000 100644 0000000000000000000000000000000000000000 a5c33c78f1d177e71024b68e92e051a3a4791e72 A	pokemon.sh

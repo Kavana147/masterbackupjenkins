@@ -1,0 +1,13 @@
+Started by user [8mha:////4KKt2fQG7TCf92VKy3g+Cb4Je+ppL5XXuX1acC2ugn/cAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL9bKBBeYmGJuYA3QGf+MQAAAA=[0mKavana Ramesh
+Running as SYSTEM
+Building remotely on [8mha:////4BgQxWrZn6SxZUaq07wEcKgHuEIw/jj5yXrvDiSrBYyGAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQifd/EstS8PKBjAYGZdcLIAAAA[0mMavennode (maven) in workspace /home/jenslave/workspace/Sample Job 1
+[Sample Job 1] $ /bin/sh -xe /tmp/jenkins4944926203414297042.sh
++ echo executing shell script 
+executing shell script 
++ a=4
++ b=90
++ expr 4 + 90
++ sum=94
++ echo 94
+94
+Finished: SUCCESS

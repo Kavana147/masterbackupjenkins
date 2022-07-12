@@ -1,0 +1,9 @@
+Started at Mon Jul 11 13:58:20 UTC 2022
+Checking pipeexample
+Checking PipelineJebkinsNew with Git
+Checking Sample Job 1
+Checking Sample Job with build trigger
+Checking Sample Job with Git
+Checking Sample Job with GitHub Hook
+Checking Sample Job with Poll SCM
+Finished at Mon Jul 11 13:58:21 UTC 2022. 174ms

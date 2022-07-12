@@ -1,0 +1,88 @@
+Started by user [8mha:////4KKt2fQG7TCf92VKy3g+Cb4Je+ppL5XXuX1acC2ugn/cAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL9bKBBeYmGJuYA3QGf+MQAAAA=[0mKavana Ramesh
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job with Git
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Sample Job with Git/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Kavana147/GitPractice.git # timeout=10
+Fetching upstream changes from https://github.com/Kavana147/GitPractice.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Kavana147/GitPractice.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/gitprct1
+Seen branch in repository origin/gitprct2
+Seen branch in repository origin/master
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 962eba892501c8c3184eaa653ff9927c93ea3dc4 (origin/gitprct1)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 962eba892501c8c3184eaa653ff9927c93ea3dc4 # timeout=10
+Commit message: "Update hard.sh"
+ > git rev-list --no-walk 962eba892501c8c3184eaa653ff9927c93ea3dc4 # timeout=10
+[Sample Job with Git] $ /bin/sh -xe /tmp/jenkins2773443205279706358.sh
++ ls
+arrayrev.sh
+bigger.sh
+bigger2.sh
+biggestof4.sh
+calci.sh
+checkpalindrome.sh
+deployment.sh
+diskspace.sh
+factorial.sh
+factorialwhil.sh
+filefinder.sh
+fileif1.sh
+findpattern.sh
+findpattern2.sh
+for2.sh
+forarraysum.sh
+forcompnum.sh
+forfactorila.sh
+forpeintarray2.sh
+forprintarray.sh
+forreverse.sh
+genpalindrome.sh
+getpalindrome.sh
+hard.sh
+hello.sh
+horror.sh
+hotelmenu.sh
+identify.sh
+inficasesw.sh
+infiniteswcase.sh
+oldbuilddel.sh
+palindrome.sh
+pokemon.sh
+prctfind.sh
+rename.sh
+rename1.sh
+renhtml.sh
+reversefil.sh
+rollwhil.sh
+scriptsshd.sh
+strfind.sh
+stringcomp.sh
+switchcase.sh
+weekdays.sh
+weekdays2.sh
+whilchar.sh
+whilcomp.sh
+whilesum.sh
+whilprinteachline.sh
+whilprintline.sh
+whilprintline4.sh
++ sh horror.sh
+No!!! what a horror
++ sh forreverse.sh 4 5 6 3
+4 5 6 3
+3
+4 5 6 3
+6
+4 5 6 3
+5
+4 5 6 3
+4
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

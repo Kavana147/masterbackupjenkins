@@ -1,0 +1,64 @@
+Started at Tue Jul 12 11:27:33 UTC 2022
+Processing pipeexample
+Offering pipeexample to Project Build Discarder
+Processing PipelineJebkinsNew with Git
+Offering PipelineJebkinsNew with Git to Project Build Discarder
+Processing Sample Job 1
+Offering Sample Job 1 to Project Build Discarder
+Processing Sample Job with build trigger
+Offering Sample Job with build trigger to Project Build Discarder
+Processing Sample Job with Git
+Offering Sample Job with Git to Project Build Discarder
+Processing Sample Job with GitHub Hook
+Offering Sample Job with GitHub Hook to Project Build Discarder
+Processing Sample Job with Poll SCM
+Offering Sample Job with Poll SCM to Project Build Discarder
+Finished at Tue Jul 12 11:27:33 UTC 2022. 8ms
+Started at Tue Jul 12 12:27:33 UTC 2022
+Processing pipeexample
+Offering pipeexample to Project Build Discarder
+Processing PipelineJebkinsNew with Git
+Offering PipelineJebkinsNew with Git to Project Build Discarder
+Processing Sample Job 1
+Offering Sample Job 1 to Project Build Discarder
+Processing Sample Job with build trigger
+Offering Sample Job with build trigger to Project Build Discarder
+Processing Sample Job with Git
+Offering Sample Job with Git to Project Build Discarder
+Processing Sample Job with GitHub Hook
+Offering Sample Job with GitHub Hook to Project Build Discarder
+Processing Sample Job with Poll SCM
+Offering Sample Job with Poll SCM to Project Build Discarder
+Finished at Tue Jul 12 12:27:33 UTC 2022. 2ms
+Started at Tue Jul 12 13:27:33 UTC 2022
+Processing pipeexample
+Offering pipeexample to Project Build Discarder
+Processing PipelineJebkinsNew with Git
+Offering PipelineJebkinsNew with Git to Project Build Discarder
+Processing Sample Job 1
+Offering Sample Job 1 to Project Build Discarder
+Processing Sample Job with build trigger
+Offering Sample Job with build trigger to Project Build Discarder
+Processing Sample Job with Git
+Offering Sample Job with Git to Project Build Discarder
+Processing Sample Job with GitHub Hook
+Offering Sample Job with GitHub Hook to Project Build Discarder
+Processing Sample Job with Poll SCM
+Offering Sample Job with Poll SCM to Project Build Discarder
+Finished at Tue Jul 12 13:27:33 UTC 2022. 1ms
+Started at Tue Jul 12 14:27:33 UTC 2022
+Processing pipeexample
+Offering pipeexample to Project Build Discarder
+Processing PipelineJebkinsNew with Git
+Offering PipelineJebkinsNew with Git to Project Build Discarder
+Processing Sample Job 1
+Offering Sample Job 1 to Project Build Discarder
+Processing Sample Job with build trigger
+Offering Sample Job with build trigger to Project Build Discarder
+Processing Sample Job with Git
+Offering Sample Job with Git to Project Build Discarder
+Processing Sample Job with GitHub Hook
+Offering Sample Job with GitHub Hook to Project Build Discarder
+Processing Sample Job with Poll SCM
+Offering Sample Job with Poll SCM to Project Build Discarder
+Finished at Tue Jul 12 14:27:33 UTC 2022. 1ms

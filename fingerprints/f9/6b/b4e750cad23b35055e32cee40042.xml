@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-07-12 02:29:27.413 UTC</timestamp>
+  <md5sum>f96bb4e750cad23b35055e32cee40042</md5sum>
+  <fileName>Credential id=b39f85d8-7b81-4d99-a0d0-5580a00db9ea name=jenslave/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1139.veb_9579fca_33b_">
+      <timestamp>1657636194013</timestamp>
+      <nodeName>Mavennode</nodeName>
+      <timestamp0>1657634634038</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

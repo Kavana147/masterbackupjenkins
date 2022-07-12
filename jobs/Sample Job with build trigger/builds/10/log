@@ -1,0 +1,27 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job with build trigger
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Sample Job with build trigger/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Kavana147/GitPractice.git # timeout=10
+Fetching upstream changes from https://github.com/Kavana147/GitPractice.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Kavana147/GitPractice.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/gitprct1
+Seen branch in repository origin/gitprct2
+Seen branch in repository origin/master
+Seen 3 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 88a641c8a9604b94d2028abfe65804d320dd4a56 (origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 88a641c8a9604b94d2028abfe65804d320dd4a56 # timeout=10
+Commit message: "Update hello.sh"
+ > git rev-list --no-walk 88a641c8a9604b94d2028abfe65804d320dd4a56 # timeout=10
+[Sample Job with build trigger] $ /bin/sh -xe /tmp/jenkins442479092779171010.sh
++ sh horror.sh
+sh: 0: Can't open horror.sh
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

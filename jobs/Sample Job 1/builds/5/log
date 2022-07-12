@@ -1,0 +1,11 @@
+Started by user [8mha:////4KKt2fQG7TCf92VKy3g+Cb4Je+ppL5XXuX1acC2ugn/cAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL9bKBBeYmGJuYA3QGf+MQAAAA=[0mKavana Ramesh
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job 1
+[Sample Job 1] $ /bin/bash /tmp/jenkins2408429535846493845.sh
+executing shell script 
+/tmp/jenkins2408429535846493845.sh: line 3: =4: command not found
+/tmp/jenkins2408429535846493845.sh: line 4: =90: command not found
+/tmp/jenkins2408429535846493845.sh: line 5: unexpected EOF while looking for matching ``'
+/tmp/jenkins2408429535846493845.sh: line 7: syntax error: unexpected end of file
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

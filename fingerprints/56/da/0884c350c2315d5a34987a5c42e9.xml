@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-07-11 11:47:39.827 UTC</timestamp>
+  <md5sum>56da0884c350c2315d5a34987a5c42e9</md5sum>
+  <fileName>Credential id=c3bd430d-e1fb-4134-98e9-636ff75f5030 name=jenkinslave/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1139.veb_9579fca_33b_">
+      <timestamp>1657636194007</timestamp>
+      <nodeName>tomcatnode</nodeName>
+      <timestamp0>1657634634045</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

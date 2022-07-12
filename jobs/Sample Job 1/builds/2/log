@@ -1,0 +1,11 @@
+Started by user [8mha:////4KKt2fQG7TCf92VKy3g+Cb4Je+ppL5XXuX1acC2ugn/cAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL9bKBBeYmGJuYA3QGf+MQAAAA=[0mKavana Ramesh
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job 1
+[Sample Job 1] $ /bin/sh -xe /tmp/jenkins15945225583530778405.sh
++ echo executing shell script 
+executing shell script 
++ ls
++ =4
+/tmp/jenkins15945225583530778405.sh: 4: =4: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

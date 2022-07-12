@@ -1,0 +1,19 @@
+Started by GitHub push by Kavana147
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job with GitHub Hook
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Sample Job with GitHub Hook/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Kavana147/GitPractice.git # timeout=10
+Fetching upstream changes from https://github.com/Kavana147/GitPractice.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Kavana147/GitPractice.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision c669781051e88d9c5faa6b889df11b96f0ea9825 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c669781051e88d9c5faa6b889df11b96f0ea9825 # timeout=10
+Commit message: "Merge pull request #4 from Kavana147/gitprct1"
+ > git rev-list --no-walk 65708980800d4afefef1d59753a05e5027fe8dc7 # timeout=10
+Finished: SUCCESS

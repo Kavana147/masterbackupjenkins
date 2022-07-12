@@ -1,0 +1,22 @@
+Started by GitHub push by Kavana147
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Sample Job with GitHub Hook
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/Kavana147/GitPractice.git
+ > git init /var/lib/jenkins/workspace/Sample Job with GitHub Hook # timeout=10
+Fetching upstream changes from https://github.com/Kavana147/GitPractice.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/Kavana147/GitPractice.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/Kavana147/GitPractice.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 65708980800d4afefef1d59753a05e5027fe8dc7 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 65708980800d4afefef1d59753a05e5027fe8dc7 # timeout=10
+Commit message: "Merge pull request #2 from Kavana147/gitprct1"
+First time build. Skipping changelog.
+Finished: SUCCESS
